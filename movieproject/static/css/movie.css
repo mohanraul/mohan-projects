@@ -1,0 +1,17 @@
+body{
+  background: url(https://images.unsplash.com/photo-1564991922793-bc9003473313?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container .jumbotron{
+  margin-top:200px;
+  background: orange;
+  color:white;
+}
+h1{
+  color:red;
+}
+table,thead,th,tr,td{
+  border:2px solid blue;
+  margin: auto;
+}
